@@ -1,11 +1,13 @@
+const packageData = require('./package');
+
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Problem Solver`,
+    author: packageData.author.name,
+    description: packageData.description,
+    siteUrl: packageData.homepage,
     social: {
-      twitter: `kylemathews`,
+      twitter: `darekdev`,
     },
   },
   plugins: [
