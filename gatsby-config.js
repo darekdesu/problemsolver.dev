@@ -1,4 +1,4 @@
-const packageData = require('./package');
+const packageData = require("./package")
 
 module.exports = {
   siteMetadata: {
@@ -76,5 +76,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    "gatsby-plugin-use-dark-mode",
   ],
 }
