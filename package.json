@@ -1,14 +1,14 @@
 {
   "name": "problemsolver.dev",
   "private": true,
-  "description": "Personal blog made by Darek Dev. Solving problems day by day.",
+  "description": "Personal blog made by Darek Dubicki. Solving problems day by day.",
   "version": "0.1.0",
   "author": {
-    "name": "Darek Dev",
-    "email": "devvdi@gmail.com"
+    "name": "Darek Dubicki",
+    "email": "darekdesu@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/devvdi/problemsolver.dev/issues"
+    "url": "https://github.com/darekdesu/problemsolver.dev/issues"
   },
   "dependencies": {
     "gatsby": "^2.18.12",
