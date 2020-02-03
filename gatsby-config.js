@@ -7,7 +7,9 @@ module.exports = {
     description: packageData.description,
     siteUrl: packageData.homepage,
     social: {
-      twitter: `darekdev`,
+      twitter: `darekdesu`,
+      github: `darekdesu`,
+      dev_to: `darekdesu`
     },
   },
   plugins: [
