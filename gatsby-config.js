@@ -9,7 +9,7 @@ module.exports = {
     social: {
       twitter: `darekdesu`,
       github: `darekdesu`,
-      dev_to: `darekdesu`
+      dev_to: `darekdesu`,
     },
   },
   plugins: [
